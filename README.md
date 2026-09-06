@@ -20,6 +20,20 @@
 
 ---
 
+
+---
+
+## new drop
+
+<p align="center">
+  <a href="https://sandeshl702.github.io/will-azure-bill-me/"><img src="https://img.shields.io/badge/Will_Azure_bill_me%3F-Open_live-1F6FEB?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Will Azure bill me" /></a>
+  <a href="https://github.com/SandeshL702/will-azure-bill-me"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="code" /></a>
+</p>
+
+<p align="center">
+  Toggle what you turned on in Azure. See free-tier traps before the bill hits.
+</p>
+
 ## toolkit
 
 <p align="center">
