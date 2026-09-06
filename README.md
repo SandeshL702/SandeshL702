@@ -41,6 +41,9 @@
 <table>
   <tr>
     <td align="center" width="50%">
+      <a href="https://nephlearngames.fun/">
+        <img src="assets/nephroquest.jpg" alt="NephroQuest" width="100%" />
+      </a>
       <h3>NephroQuest</h3>
       <p>Game for dialysis educators.<br/><b>1k+ users · real payments</b></p>
       <a href="https://nephlearngames.fun/"><img src="https://img.shields.io/badge/Open_live-1F6FEB?style=for-the-badge" alt="live" /></a>
@@ -48,15 +51,21 @@
       <code>PHP</code> · <code>MySQL</code> · <code>Razorpay</code>
     </td>
     <td align="center" width="50%">
+      <a href="https://public.tableau.com/app/profile/sandesh.lanjewar/viz/SandystoreFacebookAdsDashboard/Dashboard1">
+        <img src="https://img.shields.io/badge/Tableau_Ads_Dashboard-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="tableau" />
+      </a>
       <h3>Ads dashboard</h3>
       <p>100k+ impressions.<br/><b>Found where money leaked</b></p>
-      <a href="https://public.tableau.com/app/profile/sandesh.lanjewar/viz/SandystoreFacebookAdsDashboard/Dashboard1"><img src="https://img.shields.io/badge/Open_Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="tableau" /></a>
+      <a href="https://public.tableau.com/app/profile/sandesh.lanjewar/viz/SandystoreFacebookAdsDashboard/Dashboard1"><img src="https://img.shields.io/badge/Open_Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="open" /></a>
       <br/><br/>
       <code>SQL</code> · <code>Tableau</code> · <code>Python</code>
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
+      <a href="https://admybrand-landing-seven.vercel.app/">
+        <img src="assets/admybrand.jpg" alt="ADmyBRAND" width="100%" />
+      </a>
       <h3>ADmyBRAND</h3>
       <p>SaaS landing that looks awake.<br/><b>Next.js · motion · live</b></p>
       <a href="https://admybrand-landing-seven.vercel.app/"><img src="https://img.shields.io/badge/Open_live-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="live" /></a>
