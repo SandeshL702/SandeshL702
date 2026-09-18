@@ -11,27 +11,30 @@
   &nbsp;
   <a href="https://github.com/SandeshL702"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=SandeshL702&style=for-the-badge&color=1F6FEB" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=SandeshL702&style=for-the-badge&color=0B6B58" alt="profile views" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=3500&pause=900&color=58A6FF&center=true&vCenter=true&width=620&lines=I+make+things+people+actually+use;Azure+%C2%B7+Data+%C2%B7+Clean+web+UIs;Ship+first.+Talk+later." alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=3500&pause=900&color=3DCFB0&center=true&vCenter=true&width=620&lines=I+make+things+people+actually+use;Remember+it.+Do+it.+Finish+it.;Azure+%C2%B7+Data+%C2%B7+Clean+web+UIs" alt="typing" />
 </p>
-
----
-
 
 ---
 
 ## new drop
 
 <p align="center">
-  <a href="https://sandeshl702.github.io/will-azure-bill-me/"><img src="https://img.shields.io/badge/Will_Azure_bill_me%3F-Open_live-1F6FEB?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Will Azure bill me" /></a>
-  <a href="https://github.com/SandeshL702/will-azure-bill-me"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="code" /></a>
+  <a href="https://github.com/SandeshL702/sandeshdo"><img src="https://img.shields.io/badge/SandeshDo-Remember_it._Do_it._Finish_it.-0B6B58?style=for-the-badge" alt="SandeshDo" /></a>
+  <a href="https://github.com/SandeshL702/sandeshdo/blob/main/public/SandeshDo.apk"><img src="https://img.shields.io/badge/APK-1.9.0-181717?style=for-the-badge&logo=android&logoColor=white" alt="APK" /></a>
 </p>
 
 <p align="center">
-  Toggle what you turned on in Azure. See free-tier traps before the bill hits.
+  Private tasks + KhataBook money. Lock-screen alarms even when the app is closed.<br/>
+  Offline-first. No login. Made by Sandesh.
+</p>
+
+<p align="center">
+  <a href="https://sandeshl702.github.io/will-azure-bill-me/"><img src="https://img.shields.io/badge/Will_Azure_bill_me%3F-Open_live-1F6FEB?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Will Azure bill me" /></a>
+  <a href="https://github.com/SandeshL702/will-azure-bill-me"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="code" /></a>
 </p>
 
 ## toolkit
@@ -46,6 +49,7 @@
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white" alt="Solidity" />
   <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel" />
+  <img src="https://img.shields.io/badge/Android-0B6B58?style=flat-square&logo=android&logoColor=white" alt="Android" />
 </p>
 
 ---
@@ -54,6 +58,16 @@
 
 <table>
   <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/SandeshL702/sandeshdo">
+        <h3>SandeshDo</h3>
+      </a>
+      <p>Tasks + paisa. Lock-screen alerts.<br/><b>Remember · Do · Finish</b></p>
+      <a href="https://github.com/SandeshL702/sandeshdo"><img src="https://img.shields.io/badge/Code-0B6B58?style=for-the-badge&logo=github&logoColor=white" alt="code" /></a>
+      <a href="https://github.com/SandeshL702/sandeshdo/blob/main/public/SandeshDo.apk"><img src="https://img.shields.io/badge/APK-1.9.0-181717?style=for-the-badge&logo=android&logoColor=white" alt="apk" /></a>
+      <br/><br/>
+      <code>React</code> · <code>Android</code> · <code>offline-first</code>
+    </td>
     <td align="center" width="50%">
       <a href="https://nephlearngames.fun/">
         <img src="assets/nephroquest.jpg" alt="NephroQuest" width="100%" />
@@ -64,6 +78,8 @@
       <br/><br/>
       <code>PHP</code> · <code>MySQL</code> · <code>Razorpay</code>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="50%">
       <a href="https://public.tableau.com/app/profile/sandesh.lanjewar/viz/SandystoreFacebookAdsDashboard/Dashboard1">
         <img src="https://img.shields.io/badge/Tableau_Ads_Dashboard-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="tableau" />
@@ -74,8 +90,6 @@
       <br/><br/>
       <code>SQL</code> · <code>Tableau</code> · <code>Python</code>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="50%">
       <a href="https://admybrand-landing-seven.vercel.app/">
         <img src="assets/admybrand.jpg" alt="ADmyBRAND" width="100%" />
@@ -87,6 +101,8 @@
       <br/><br/>
       <code>Next.js</code> · <code>TypeScript</code> · <code>Tailwind</code>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="50%">
       <h3>CareerSparks</h3>
       <p>Job board.<br/><b>Apply with less friction</b></p>
@@ -94,12 +110,14 @@
       <br/><br/>
       <code>Full-stack</code> · <code>MySQL</code>
     </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/SandeshL702/ETH-Proof-Submission"><img src="https://img.shields.io/badge/bonus_—_MyToken_Solidity-363636?style=for-the-badge&logo=ethereum&logoColor=white" alt="MyToken" /></a>
+      <h3>MyToken</h3>
+      <p>Solidity mint/burn demo.</p>
+      <code>Solidity</code> · <code>Remix</code>
+    </td>
   </tr>
 </table>
-
-<p align="center">
-  <a href="https://github.com/SandeshL702/ETH-Proof-Submission"><img src="https://img.shields.io/badge/bonus_—_MyToken_Solidity-363636?style=for-the-badge&logo=ethereum&logoColor=white" alt="MyToken" /></a>
-</p>
 
 ---
 
@@ -122,16 +140,12 @@
 ## pulse
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SandeshL702&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&ring_color=1F6FEB" height="168" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SandeshL702&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=c9d1d9" height="168" alt="langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SandeshL702&show_icons=true&theme=transparent&hide_border=true&title_color=3DCFB0&icon_color=3DCFB0&text_color=c9d1d9&ring_color=0B6B58" height="168" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SandeshL702&layout=compact&theme=transparent&hide_border=true&title_color=3DCFB0&text_color=c9d1d9" height="168" alt="langs" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SandeshL702&theme=dark&hide_border=true&background=00000000&ring=1F6FEB&fire=58A6FF&currStreakLabel=58A6FF" alt="streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SandeshL702&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ffffff&area=true&hide_border=true" alt="activity" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SandeshL702&theme=dark&hide_border=true&background=00000000&ring=0B6B58&fire=3DCFB0&currStreakLabel=3DCFB0" alt="streak" />
 </p>
 
 ---
