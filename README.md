@@ -109,3 +109,7 @@ Dialysis educator game · 1k+ users · real payments.<br/>
   <img src="https://raw.githubusercontent.com/SandeshL702/SandeshL702/main/assets/ui-hobbies.gif?v=1" width="100%" alt="Hobbies" />
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SandeshL702/SandeshL702/main/assets/hobbies-cards.gif?v=1" width="100%" alt="Cricket · AI tools · Chess" />
+</p>
+
