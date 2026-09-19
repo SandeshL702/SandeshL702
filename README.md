@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,20,24&height=160&section=header&animation=fadeIn&fontAlignY=32&descAlignY=58&text=Building%20in%20public&fontSize=40&fontColor=ffffff&desc=Azure%20%C2%B7%20Android%20%C2%B7%20data%20%E2%80%94%20tools%20that%20stick&descSize=16&descColor=C9D1D9" width="100%" alt="Building in public" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,20,24&height=160&section=header&animation=fadeIn&fontAlignY=32&descAlignY=58&text=Remember.%20Do.%20Finish.&fontSize=38&fontColor=ffffff&desc=SandeshDo%20%C2%B7%20Azure%20bills%20%C2%B7%20EPFO%20fixes&descSize=16&descColor=C9D1D9" width="100%" alt="Remember. Do. Finish." />
 
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=3200&pause=900&color=3DCFB0&center=true&vCenter=true&width=640&lines=Offline+apps+for+India;Azure+tools+before+the+invoice;Products+with+real+users" alt="what I build" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=3200&pause=900&color=3DCFB0&center=true&vCenter=true&width=680&lines=Hinglish+tasks+that+actually+remind+you;Catch+Azure+free-tier+traps+early;Paste+EPFO+rejection+%E2%86%92+get+the+fix" alt="what I ship" />
 
   <p>
     <a href="https://www.linkedin.com/in/sandesh-lanjewar"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
