@@ -15,7 +15,7 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SandeshL702/SandeshL702/main/assets/banner-projects.gif?v=3" width="100%" alt="Projects" />
+  <img src="https://raw.githubusercontent.com/SandeshL702/SandeshL702/main/assets/banner-projects.gif?v=4" width="100%" alt="Projects" />
 </p>
 
 ### [SandeshDo](https://github.com/SandeshL702/sandeshdo)
@@ -67,7 +67,7 @@ Dialysis educator game · 1k+ users · real payments.<br/>
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SandeshL702/SandeshL702/main/assets/banner-stack.gif?v=3" width="100%" alt="Stack" />
+  <img src="https://raw.githubusercontent.com/SandeshL702/SandeshL702/main/assets/banner-stack.gif?v=4" width="100%" alt="Stack" />
 </p>
 
 <p align="center"><b>Build</b></p>
@@ -93,7 +93,7 @@ Dialysis educator game · 1k+ users · real payments.<br/>
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SandeshL702/SandeshL702/main/assets/banner-certificates.gif?v=3" width="100%" alt="Certificates" />
+  <img src="https://raw.githubusercontent.com/SandeshL702/SandeshL702/main/assets/banner-certificates.gif?v=4" width="100%" alt="Certificates" />
 </p>
 
 <p align="center">
@@ -108,7 +108,7 @@ Dialysis educator game · 1k+ users · real payments.<br/>
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SandeshL702/SandeshL702/main/assets/banner-hobbies.gif?v=3" width="100%" alt="Hobbies" />
+  <img src="https://raw.githubusercontent.com/SandeshL702/SandeshL702/main/assets/banner-hobbies.gif?v=4" width="100%" alt="Hobbies" />
 </p>
 
 <p align="center">
