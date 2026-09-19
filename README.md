@@ -1,8 +1,6 @@
 <div align="center">
 
-# Hi, I'm Sandesh
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=3DCFB0&center=true&vCenter=true&width=720&lines=Message.exe+is+running;%24+Message+%E2%86%92+push+%E2%86%92+deploy;Open+to+contribute" alt="Message.exe typing animation" />
+<img src="https://raw.githubusercontent.com/SandeshL702/SandeshL702/main/assets/message-3d.gif" width="100%" alt="Hi, I'm Sandesh — Message.exe · message → push → deploy" />
 
 <p>
   <a href="https://www.linkedin.com/in/sandesh-lanjewar"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
