@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/SandeshOG/SandeshL702/main/assets/message-3d.gif" width="100%" alt="Hi, I'm Sandesh — Message.exe · message → push → deploy" />
+<img src="https://raw.githubusercontent.com/SandeshOG/SandeshOG/main/assets/message-3d.gif" width="100%" alt="Hi, I'm Sandesh — Message.exe · message → push → deploy" />
 
 <p align="center"><b>Sandesh Lanjewar</b> · <a href="https://github.com/SandeshOG">github.com/SandeshOG</a></p>
 
@@ -17,14 +17,14 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SandeshOG/SandeshL702/main/assets/ui-projects.gif?v=1" width="100%" alt="Projects" />
+  <img src="https://raw.githubusercontent.com/SandeshOG/SandeshOG/main/assets/ui-projects.gif?v=1" width="100%" alt="Projects" />
 </p>
 
 ### [SandeshDo](https://github.com/SandeshOG/sandeshdo)
 Hinglish tasks + KhataBook. Offline. Lock-screen alarms. No login.
 
 <p align="center">
-  <a href="https://github.com/SandeshOG/sandeshdo"><img src="https://raw.githubusercontent.com/SandeshOG/SandeshL702/main/assets/sandeshdo-mockup.png?v=1" width="900" alt="SandeshDo — Today, Calendar, Sandy" /></a>
+  <a href="https://github.com/SandeshOG/sandeshdo"><img src="https://raw.githubusercontent.com/SandeshOG/SandeshOG/main/assets/sandeshdo-mockup.png?v=1" width="900" alt="SandeshDo — Today, Calendar, Sandy" /></a>
 </p>
 
 <p align="center">
@@ -36,27 +36,27 @@ Hinglish tasks + KhataBook. Offline. Lock-screen alarms. No login.
 <table>
 <tr>
 <td width="50%" valign="top" align="center">
-<a href="https://sandeshl702.github.io/will-azure-bill-me/"><img src="https://raw.githubusercontent.com/SandeshOG/SandeshL702/main/assets/azure-bill.png" width="420" height="236" alt="Will Azure bill me?" /></a><br/>
-<a href="https://sandeshl702.github.io/will-azure-bill-me/"><b>Will Azure bill me?</b></a><br/>
+<a href="https://sandeshog.github.io/will-azure-bill-me/"><img src="https://raw.githubusercontent.com/SandeshOG/SandeshOG/main/assets/azure-bill.png" width="420" height="236" alt="Will Azure bill me?" /></a><br/>
+<a href="https://sandeshog.github.io/will-azure-bill-me/"><b>Will Azure bill me?</b></a><br/>
 Free-tier traps before the invoice.<br/>
-<a href="https://sandeshl702.github.io/will-azure-bill-me/">live</a> · <a href="https://github.com/SandeshOG/will-azure-bill-me">code</a>
+<a href="https://sandeshog.github.io/will-azure-bill-me/">live</a> · <a href="https://github.com/SandeshOG/will-azure-bill-me">code</a>
 </td>
 <td width="50%" valign="top" align="center">
-<a href="https://sandeshl702.github.io/why-is-my-pf-stuck/"><img src="https://raw.githubusercontent.com/SandeshOG/SandeshL702/main/assets/pf-stuck.png" width="420" height="236" alt="Why is my PF stuck?" /></a><br/>
-<a href="https://sandeshl702.github.io/why-is-my-pf-stuck/"><b>Why is my PF stuck?</b></a><br/>
+<a href="https://sandeshog.github.io/why-is-my-pf-stuck/"><img src="https://raw.githubusercontent.com/SandeshOG/SandeshOG/main/assets/pf-stuck.png" width="420" height="236" alt="Why is my PF stuck?" /></a><br/>
+<a href="https://sandeshog.github.io/why-is-my-pf-stuck/"><b>Why is my PF stuck?</b></a><br/>
 EPFO rejection → fix + HR email.<br/>
-<a href="https://sandeshl702.github.io/why-is-my-pf-stuck/">live</a> · <a href="https://github.com/SandeshOG/why-is-my-pf-stuck">code</a>
+<a href="https://sandeshog.github.io/why-is-my-pf-stuck/">live</a> · <a href="https://github.com/SandeshOG/why-is-my-pf-stuck">code</a>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top" align="center">
-<a href="https://survey.careersparksco.in/"><img src="https://raw.githubusercontent.com/SandeshOG/SandeshL702/main/assets/careersparks.png" width="420" height="236" alt="CareerSparks Survey" /></a><br/>
+<a href="https://survey.careersparksco.in/"><img src="https://raw.githubusercontent.com/SandeshOG/SandeshOG/main/assets/careersparks.png" width="420" height="236" alt="CareerSparks Survey" /></a><br/>
 <a href="https://survey.careersparksco.in/"><b>CareerSparks Survey</b></a><br/>
 Recruitment forms + staff admin for India hiring teams.<br/>
 <a href="https://survey.careersparksco.in/">live</a> · <a href="https://github.com/SandeshOG/careersparks-survey">code</a>
 </td>
 <td width="50%" valign="top" align="center">
-<a href="https://nephlearngames.fun/"><img src="https://raw.githubusercontent.com/SandeshOG/SandeshL702/main/assets/nephroquest.png" width="420" height="236" alt="NephroQuest" /></a><br/>
+<a href="https://nephlearngames.fun/"><img src="https://raw.githubusercontent.com/SandeshOG/SandeshOG/main/assets/nephroquest.png" width="420" height="236" alt="NephroQuest" /></a><br/>
 <a href="https://nephlearngames.fun/"><b>NephroQuest</b></a><br/>
 Dialysis educator game · 1k+ users · real payments.<br/>
 <a href="https://nephlearngames.fun/">live</a> · <a href="https://github.com/SandeshOG/nephroquest">code</a>
@@ -67,7 +67,7 @@ Dialysis educator game · 1k+ users · real payments.<br/>
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SandeshOG/SandeshL702/main/assets/ui-stack.gif?v=1" width="100%" alt="Stack" />
+  <img src="https://raw.githubusercontent.com/SandeshOG/SandeshOG/main/assets/ui-stack.gif?v=1" width="100%" alt="Stack" />
 </p>
 
 <p align="center"><b>Build</b></p>
@@ -93,7 +93,7 @@ Dialysis educator game · 1k+ users · real payments.<br/>
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SandeshOG/SandeshL702/main/assets/ui-certificates.gif?v=1" width="100%" alt="Certificates" />
+  <img src="https://raw.githubusercontent.com/SandeshOG/SandeshOG/main/assets/ui-certificates.gif?v=1" width="100%" alt="Certificates" />
 </p>
 
 <p align="center">
@@ -108,10 +108,10 @@ Dialysis educator game · 1k+ users · real payments.<br/>
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SandeshOG/SandeshL702/main/assets/ui-hobbies.gif?v=1" width="100%" alt="Hobbies" />
+  <img src="https://raw.githubusercontent.com/SandeshOG/SandeshOG/main/assets/ui-hobbies.gif?v=1" width="100%" alt="Hobbies" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SandeshOG/SandeshL702/main/assets/hobbies-cards.gif?v=1" width="100%" alt="Cricket · AI tools · Chess" />
+  <img src="https://raw.githubusercontent.com/SandeshOG/SandeshOG/main/assets/hobbies-cards.gif?v=1" width="100%" alt="Cricket · AI tools · Chess" />
 </p>
 
