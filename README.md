@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/SandeshL702/SandeshL702/main/assets/message-terminal.svg" width="980" alt="Hi, I'm Sandesh — Message.exe · message → push → deploy" />
+  <img src="https://raw.githubusercontent.com/SandeshL702/SandeshL702/main/assets/message-terminal.gif" width="980" alt="Hi, I'm Sandesh — Message.exe · message → push → deploy" />
 
   <p>
     <a href="https://www.linkedin.com/in/sandesh-lanjewar"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
