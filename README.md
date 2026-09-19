@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,20,24&height=180&section=header&animation=fadeIn&fontAlignY=35&descAlignY=62&text=Hi%2C%20I'm%20Sandesh&fontSize=42&fontColor=ffffff&desc=I%20build%20small%20tools%20people%20actually%20use%20%C2%B7%20Azure%20%C2%B7%20Android%20%C2%B7%20India&descSize=16&descColor=C9D1D9" width="100%" alt="Hi, I'm Sandesh" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,20,24&height=200&section=header&animation=fadeIn&fontAlignY=34&descAlignY=60&text=Hi%2C%20I'm%20Sandesh&fontSize=44&fontColor=ffffff&desc=Sandesh%20means%20message%20%C2%B7%20I%20ship%20tools%20that%20deliver&descSize=16&descColor=C9D1D9" width="100%" alt="Hi, I'm Sandesh — Sandesh means message" />
 
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=3200&pause=900&color=3DCFB0&center=true&vCenter=true&width=680&lines=Open+to+contribute;Ship+small.+Ship+often.;Offline-first+by+default" alt="status lines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=800&color=3DCFB0&center=true&vCenter=true&width=720&lines=My+name+means+message.;I+ship+tools+that+deliver.;Open+to+contribute." alt="typing: My name means message" />
 
   <p>
     <a href="https://www.linkedin.com/in/sandesh-lanjewar"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -36,13 +36,13 @@ Hinglish tasks + KhataBook. Offline. Lock-screen alarms. No login.
 <table>
 <tr>
 <td width="50%" valign="top" align="center">
-<a href="https://sandeshl702.github.io/will-azure-bill-me/"><img src="https://raw.githubusercontent.com/SandeshL702/SandeshL702/main/assets/azure-bill.png" width="100%" alt="Will Azure bill me?" /></a><br/>
+<a href="https://sandeshl702.github.io/will-azure-bill-me/"><img src="https://raw.githubusercontent.com/SandeshL702/SandeshL702/main/assets/azure-bill.png" width="420" height="236" alt="Will Azure bill me?" /></a><br/>
 <a href="https://sandeshl702.github.io/will-azure-bill-me/"><b>Will Azure bill me?</b></a><br/>
 Free-tier traps before the invoice.<br/>
 <a href="https://sandeshl702.github.io/will-azure-bill-me/">live</a> · <a href="https://github.com/SandeshL702/will-azure-bill-me">code</a>
 </td>
 <td width="50%" valign="top" align="center">
-<a href="https://sandeshl702.github.io/why-is-my-pf-stuck/"><img src="https://raw.githubusercontent.com/SandeshL702/SandeshL702/main/assets/pf-stuck.png" width="100%" alt="Why is my PF stuck?" /></a><br/>
+<a href="https://sandeshl702.github.io/why-is-my-pf-stuck/"><img src="https://raw.githubusercontent.com/SandeshL702/SandeshL702/main/assets/pf-stuck.png" width="420" height="236" alt="Why is my PF stuck?" /></a><br/>
 <a href="https://sandeshl702.github.io/why-is-my-pf-stuck/"><b>Why is my PF stuck?</b></a><br/>
 EPFO rejection → fix + HR email.<br/>
 <a href="https://sandeshl702.github.io/why-is-my-pf-stuck/">live</a> · <a href="https://github.com/SandeshL702/why-is-my-pf-stuck">code</a>
@@ -50,16 +50,16 @@ EPFO rejection → fix + HR email.<br/>
 </tr>
 <tr>
 <td width="50%" valign="top" align="center">
-<a href="https://survey.careersparksco.in/"><img src="https://raw.githubusercontent.com/SandeshL702/SandeshL702/main/assets/careersparks.png" width="100%" alt="CareerSparks Survey" /></a><br/>
+<a href="https://survey.careersparksco.in/"><img src="https://raw.githubusercontent.com/SandeshL702/SandeshL702/main/assets/careersparks.png" width="420" height="236" alt="CareerSparks Survey" /></a><br/>
 <a href="https://survey.careersparksco.in/"><b>CareerSparks Survey</b></a><br/>
 Recruitment forms + staff admin for India hiring teams.<br/>
 <a href="https://survey.careersparksco.in/">live</a> · <a href="https://github.com/SandeshL702/careersparks-survey">code</a>
 </td>
 <td width="50%" valign="top" align="center">
-<a href="https://nephlearngames.fun/"><img src="https://raw.githubusercontent.com/SandeshL702/SandeshL702/main/assets/nephroquest.jpg" width="100%" alt="NephroQuest" /></a><br/>
+<a href="https://nephlearngames.fun/"><img src="https://raw.githubusercontent.com/SandeshL702/SandeshL702/main/assets/nephroquest.png" width="420" height="236" alt="NephroQuest" /></a><br/>
 <a href="https://nephlearngames.fun/"><b>NephroQuest</b></a><br/>
 Dialysis educator game · 1k+ users · real payments.<br/>
-<a href="https://nephlearngames.fun/">live</a>
+<a href="https://nephlearngames.fun/">live</a> · <a href="https://github.com/SandeshL702/nephroquest">code</a>
 </td>
 </tr>
 </table>
