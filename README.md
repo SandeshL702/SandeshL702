@@ -6,41 +6,44 @@
 
 ### Hi, I'm Sandesh
 
-I ship tools people open twice — practical products for Azure, data, and everyday India problems.
+I ship tools people open twice — Azure, data, and products Indians actually need.
 
 [LinkedIn](https://www.linkedin.com/in/sandesh-lanjewar) · [Email](mailto:sandeshlanjewar702@gmail.com)
 
 ---
 
-### Now shipping
+### Featured · [SandeshDo](https://github.com/SandeshL702/sandeshdo)
 
-<table>
-<tr>
-<td width="50%">
-<a href="https://github.com/SandeshL702/sandeshdo"><img src="https://raw.githubusercontent.com/SandeshL702/SandeshL702/main/assets/sandeshdo-card.svg" width="100%" alt="SandeshDo" /></a>
-<br><br>
-<b><a href="https://github.com/SandeshL702/sandeshdo">SandeshDo</a></b> — Hinglish tasks + KhataBook. Offline. Lock-screen alarms.<br>
-<a href="https://github.com/SandeshL702/sandeshdo/blob/main/public/SandeshDo.apk">Download APK</a>
-</td>
-<td width="50%">
-<a href="https://sandeshl702.github.io/will-azure-bill-me/"><img src="https://raw.githubusercontent.com/SandeshL702/SandeshL702/main/assets/azure-card.svg" width="100%" alt="Will Azure bill me" /></a>
-<br><br>
-<b><a href="https://sandeshl702.github.io/will-azure-bill-me/">Will Azure bill me?</a></b> — Toggle what you turned on. Catch free-tier traps before the invoice.
-</td>
-</tr>
-<tr>
-<td width="50%">
-<a href="https://github.com/SandeshL702/why-is-my-pf-stuck"><img src="https://raw.githubusercontent.com/SandeshL702/SandeshL702/main/assets/pf-card.svg" width="100%" alt="PF stuck" /></a>
-<br><br>
-<b><a href="https://github.com/SandeshL702/why-is-my-pf-stuck">Why is my PF stuck?</a></b> — Paste EPFO rejection → exact fix, HR email, grievance text.
-</td>
-<td width="50%">
-<a href="https://nephlearngames.fun/"><img src="https://raw.githubusercontent.com/SandeshL702/SandeshL702/main/assets/nephroquest.jpg" width="100%" alt="NephroQuest" /></a>
-<br><br>
-<b><a href="https://nephlearngames.fun/">NephroQuest</a></b> — Game for dialysis educators. <b>1k+ users · real payments</b>
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SandeshL702/sandeshdo/main/docs/today.png" width="220" alt="Today" />
+  <img src="https://raw.githubusercontent.com/SandeshL702/sandeshdo/main/docs/calendar.png" width="220" alt="Calendar" />
+  <img src="https://raw.githubusercontent.com/SandeshL702/sandeshdo/main/docs/sandy.png" width="220" alt="Sandy" />
+</p>
+
+<p align="center">
+  <b>Remember it. Do it. Finish it.</b><br>
+  Hinglish tasks + KhataBook money. Offline. Lock-screen alarms. No login.
+</p>
+
+<p align="center">
+  <a href="https://github.com/SandeshL702/sandeshdo/releases/latest/download/SandeshDo.apk"><b>Download APK</b></a>
+  ·
+  <a href="https://github.com/SandeshL702/sandeshdo">Code</a>
+</p>
+
+---
+
+### Also shipping
+
+1. **[Will Azure bill me?](https://sandeshl702.github.io/will-azure-bill-me/)** — Toggle what you turned on. Catch free-tier traps before the invoice. ([code](https://github.com/SandeshL702/will-azure-bill-me))
+2. **[Why is my PF stuck?](https://github.com/SandeshL702/why-is-my-pf-stuck)** — Paste EPFO rejection → exact fix, HR email, grievance text.
+3. **[NephroQuest](https://nephlearngames.fun/)** — Dialysis educator game. **1k+ users · real payments**
+
+<p align="center">
+  <a href="https://nephlearngames.fun/"><img src="https://raw.githubusercontent.com/SandeshL702/SandeshL702/main/assets/nephroquest.jpg" width="520" alt="NephroQuest" /></a>
+</p>
+
+4. **[ADmyBRAND landing](https://admybrand-landing-seven.vercel.app/)** — SaaS page that looks awake. Next.js · motion. ([code](https://github.com/SandeshL702/admybrand-landing))
 
 ---
 
