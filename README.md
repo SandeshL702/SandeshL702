@@ -2,6 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/SandeshL702/SandeshL702/main/assets/message-3d.gif" width="100%" alt="Hi, I'm Sandesh — Message.exe · message → push → deploy" />
 
+<p align="center"><b>Sandesh Lanjewar</b> · <a href="https://github.com/SandeshL702">github.com/SandeshL702</a></p>
+
 <p>
   <a href="https://www.linkedin.com/in/sandesh-lanjewar"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   &nbsp;
