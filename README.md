@@ -2,8 +2,6 @@
 
 <img src="https://raw.githubusercontent.com/SandeshL702/SandeshL702/main/assets/message-3d.gif" width="100%" alt="Hi, I'm Sandesh — Message.exe · message → push → deploy" />
 
-`message.exe`
-
 <p>
   <a href="https://www.linkedin.com/in/sandesh-lanjewar"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   &nbsp;
@@ -17,7 +15,7 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1220,50:0B6B58,100:1F6FEB&height=70&section=header&text=%E2%80%9C%20Projects%20%E2%80%9D&fontSize=30&fontColor=ffffff&fontAlignY=42&desc=Shipped%20%C2%B7%20live%20%C2%B7%20useful&descAlignY=68&descSize=12&descColor=C9D1D9" width="100%" alt="Projects" />
+  <img src="https://raw.githubusercontent.com/SandeshL702/SandeshL702/main/assets/banner-projects.gif" width="100%" alt="Projects" />
 </p>
 
 ### [SandeshDo](https://github.com/SandeshL702/sandeshdo)
@@ -69,31 +67,33 @@ Dialysis educator game · 1k+ users · real payments.<br/>
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1220,50:0B6B58,100:1F6FEB&height=70&section=header&text=%E2%80%9C%20Stack%20%E2%80%9D&fontSize=30&fontColor=ffffff&fontAlignY=42&desc=Build%20%C2%B7%20ads%20%C2%B7%20research%20%C2%B7%20ship&descAlignY=68&descSize=12&descColor=C9D1D9" width="100%" alt="Stack" />
+  <img src="https://raw.githubusercontent.com/SandeshL702/SandeshL702/main/assets/banner-stack.gif" width="100%" alt="Stack" />
 </p>
 
+<p align="center"><b>Build</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=azure,python,ts,js,react,nextjs,nodejs,mysql,androidstudio,git,github,vercel,docker,figma,tailwind,html,css,postman" alt="dev stack" />
+  <img src="https://skillicons.dev/icons?i=azure,python,ts,react,nextjs,nodejs,mysql,androidstudio,git,vercel" alt="build stack" />
 </p>
 
+<p align="center"><b>Design &amp; tools</b></p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Facebook_Ads-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Ads" />
-  <img src="https://img.shields.io/badge/Google_Ads-4285F4?style=for-the-badge&logo=googleads&logoColor=white" alt="Google Ads" />
-  <img src="https://img.shields.io/badge/YouTube_Analysis-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Analysis" />
-  <img src="https://img.shields.io/badge/Video_Editing-7B2CBF?style=for-the-badge&logo=adobepremierepro&logoColor=white" alt="Video Editing" />
+  <img src="https://skillicons.dev/icons?i=figma,tailwind,html,css,postman,docker,github,vscode" alt="design tools" />
 </p>
 
+<p align="center"><b>Growth &amp; research</b></p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Researcher-0B6B58?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Researcher" />
-  <img src="https://img.shields.io/badge/Paper_Publish-1F6FEB?style=for-the-badge&logo=researchgate&logoColor=white" alt="Paper Publish" />
-  <img src="https://img.shields.io/badge/AI_Tools-111827?style=for-the-badge&logo=openai&logoColor=white" alt="AI Tools" />
-  <img src="https://img.shields.io/badge/Data-0EA5E9?style=for-the-badge&logo=googlesheets&logoColor=white" alt="Data" />
+  <img src="https://img.shields.io/badge/Facebook_Ads-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook Ads" />
+  <img src="https://img.shields.io/badge/Google_Ads-4285F4?style=flat-square&logo=googleads&logoColor=white" alt="Google Ads" />
+  <img src="https://img.shields.io/badge/YouTube_Analysis-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube Analysis" />
+  <img src="https://img.shields.io/badge/Video_Editing-7B2CBF?style=flat-square&logo=adobepremierepro&logoColor=white" alt="Video Editing" />
+  <img src="https://img.shields.io/badge/Researcher-0B6B58?style=flat-square&logo=googlescholar&logoColor=white" alt="Researcher" />
+  <img src="https://img.shields.io/badge/Paper_Publish-1F6FEB?style=flat-square&logo=researchgate&logoColor=white" alt="Paper Publish" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1220,50:0B6B58,100:1F6FEB&height=70&section=header&text=%E2%80%9C%20Certificates%20%E2%80%9D&fontSize=30&fontColor=ffffff&fontAlignY=42&desc=Proof%20over%20promises&descAlignY=68&descSize=12&descColor=C9D1D9" width="100%" alt="Certificates" />
+  <img src="https://raw.githubusercontent.com/SandeshL702/SandeshL702/main/assets/banner-certificates.gif" width="100%" alt="Certificates" />
 </p>
 
 <p align="center">
@@ -108,16 +108,9 @@ Dialysis educator game · 1k+ users · real payments.<br/>
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1220,50:0B6B58,100:1F6FEB&height=70&section=header&text=%E2%80%9C%20Hobbies%20%E2%80%9D&fontSize=30&fontColor=ffffff&fontAlignY=42&desc=Play%20%C2%B7%20research%20%C2%B7%20stay%20sharp&descAlignY=68&descSize=12&descColor=C9D1D9" width="100%" alt="Hobbies" />
+  <img src="https://raw.githubusercontent.com/SandeshL702/SandeshL702/main/assets/banner-hobbies.gif" width="100%" alt="Hobbies" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SandeshL702/SandeshL702/main/assets/hobbies-3d.gif" width="100%" alt="Hobbies — Cricket, AI tools, Chess, Nutrition" />
-</p>
-
-<p align="center">
-  <b>Cricket</b> — play & follow<br/>
-  <b>AI tools</b> — research & learn what actually ships<br/>
-  <b>Chess</b> — think before you move<br/>
-  <b>Nutrition</b> — protein, vitamins & what the body needs
+  <img src="https://raw.githubusercontent.com/SandeshL702/SandeshL702/main/assets/hobbies-3d.gif" width="100%" alt="Hobbies — Cricket, AI tools, Chess" />
 </p>
