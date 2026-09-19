@@ -15,16 +15,18 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SandeshL702/SandeshL702/main/assets/sec-projects.gif?v=2" width="100%" alt="Projects" />
+  <img src="https://raw.githubusercontent.com/SandeshL702/SandeshL702/main/assets/hdr-projects.gif?v=1" width="100%" alt="Projects" />
 </p>
 
 ### [SandeshDo](https://github.com/SandeshL702/sandeshdo)
 Hinglish tasks + KhataBook. Offline. Lock-screen alarms. No login.
 
 <p align="center">
-  <a href="https://github.com/SandeshL702/sandeshdo"><img src="https://raw.githubusercontent.com/SandeshL702/sandeshdo/main/docs/today.png" height="260" alt="SandeshDo Today" /></a>
-  <a href="https://github.com/SandeshL702/sandeshdo"><img src="https://raw.githubusercontent.com/SandeshL702/sandeshdo/main/docs/calendar.png" height="260" alt="SandeshDo Calendar" /></a>
-  <a href="https://github.com/SandeshL702/sandeshdo"><img src="https://raw.githubusercontent.com/SandeshL702/sandeshdo/main/docs/sandy.png" height="260" alt="SandeshDo Sandy" /></a>
+  <a href="https://github.com/SandeshL702/sandeshdo"><img src="https://raw.githubusercontent.com/SandeshL702/SandeshL702/main/assets/sandeshdo-today.png?v=1" width="140" height="280" alt="SandeshDo Today" /></a>
+  &nbsp;
+  <a href="https://github.com/SandeshL702/sandeshdo"><img src="https://raw.githubusercontent.com/SandeshL702/SandeshL702/main/assets/sandeshdo-calendar.png?v=1" width="140" height="280" alt="SandeshDo Calendar" /></a>
+  &nbsp;
+  <a href="https://github.com/SandeshL702/sandeshdo"><img src="https://raw.githubusercontent.com/SandeshL702/SandeshL702/main/assets/sandeshdo-sandy.png?v=1" width="140" height="280" alt="SandeshDo Sandy" /></a>
 </p>
 
 <p align="center">
@@ -67,7 +69,7 @@ Dialysis educator game · 1k+ users · real payments.<br/>
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SandeshL702/SandeshL702/main/assets/sec-stack.gif?v=2" width="100%" alt="Stack" />
+  <img src="https://raw.githubusercontent.com/SandeshL702/SandeshL702/main/assets/hdr-stack.gif?v=1" width="100%" alt="Stack" />
 </p>
 
 <p align="center"><b>Build</b></p>
@@ -93,7 +95,7 @@ Dialysis educator game · 1k+ users · real payments.<br/>
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SandeshL702/SandeshL702/main/assets/sec-certificates.gif?v=2" width="100%" alt="Certificates" />
+  <img src="https://raw.githubusercontent.com/SandeshL702/SandeshL702/main/assets/hdr-certificates.gif?v=1" width="100%" alt="Certificates" />
 </p>
 
 <p align="center">
@@ -108,7 +110,7 @@ Dialysis educator game · 1k+ users · real payments.<br/>
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SandeshL702/SandeshL702/main/assets/sec-hobbies.gif?v=2" width="100%" alt="Hobbies" />
+  <img src="https://raw.githubusercontent.com/SandeshL702/SandeshL702/main/assets/hdr-hobbies.gif?v=1" width="100%" alt="Hobbies" />
 </p>
 
 <p align="center">
