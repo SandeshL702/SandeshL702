@@ -15,7 +15,7 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1220,50:0B6B58,100:1F6FEB&height=80&section=header&text=%E2%80%9C%20Projects%20%E2%80%9D&fontSize=32&fontColor=ffffff&fontAlignY=42&desc=Shipped%20%C2%B7%20live%20%C2%B7%20useful&descAlignY=68&descSize=13&descColor=C9D1D9" width="100%" alt="Projects" />
+  <img src="https://raw.githubusercontent.com/SandeshL702/SandeshL702/main/assets/sync-projects.gif?v=1" width="100%" alt="Projects" />
 </p>
 
 ### [SandeshDo](https://github.com/SandeshL702/sandeshdo)
@@ -65,7 +65,7 @@ Dialysis educator game · 1k+ users · real payments.<br/>
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1220,50:0B6B58,100:1F6FEB&height=80&section=header&text=%E2%80%9C%20Stack%20%E2%80%9D&fontSize=32&fontColor=ffffff&fontAlignY=42&desc=Build%20%C2%B7%20ads%20%C2%B7%20research%20%C2%B7%20ship&descAlignY=68&descSize=13&descColor=C9D1D9" width="100%" alt="Stack" />
+  <img src="https://raw.githubusercontent.com/SandeshL702/SandeshL702/main/assets/sync-stack.gif?v=1" width="100%" alt="Stack" />
 </p>
 
 <p align="center"><b>Build</b></p>
@@ -91,7 +91,7 @@ Dialysis educator game · 1k+ users · real payments.<br/>
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1220,50:0B6B58,100:1F6FEB&height=80&section=header&text=%E2%80%9C%20Certificates%20%E2%80%9D&fontSize=32&fontColor=ffffff&fontAlignY=42&desc=Proof%20over%20promises&descAlignY=68&descSize=13&descColor=C9D1D9" width="100%" alt="Certificates" />
+  <img src="https://raw.githubusercontent.com/SandeshL702/SandeshL702/main/assets/sync-certificates.gif?v=1" width="100%" alt="Certificates" />
 </p>
 
 <p align="center">
@@ -106,9 +106,6 @@ Dialysis educator game · 1k+ users · real payments.<br/>
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1220,50:0B6B58,100:1F6FEB&height=80&section=header&text=%E2%80%9C%20Hobbies%20%E2%80%9D&fontSize=32&fontColor=ffffff&fontAlignY=42&desc=Play%20%C2%B7%20research%20%C2%B7%20stay%20sharp&descAlignY=68&descSize=13&descColor=C9D1D9" width="100%" alt="Hobbies" />
+  <img src="https://raw.githubusercontent.com/SandeshL702/SandeshL702/main/assets/sync-hobbies.gif?v=1" width="100%" alt="Hobbies" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/SandeshL702/SandeshL702/main/assets/hobbies-3d.gif?v=3" width="100%" alt="Hobbies — Cricket, AI tools, Chess" />
-</p>
