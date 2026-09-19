@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,20,24&height=160&section=header&animation=fadeIn&fontAlignY=32&descAlignY=58&text=Remember.%20Do.%20Finish.&fontSize=38&fontColor=ffffff&desc=SandeshDo%20%C2%B7%20Azure%20bills%20%C2%B7%20EPFO%20fixes&descSize=16&descColor=C9D1D9" width="100%" alt="Remember. Do. Finish." />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,20,24&height=160&section=header&animation=fadeIn&fontAlignY=32&descAlignY=58&text=Remember.%20Do.%20Finish.&fontSize=38&fontColor=ffffff&desc=Azure%20%C2%B7%20Android%20%C2%B7%20India&descSize=18&descColor=C9D1D9" width="100%" alt="Remember. Do. Finish." />
 
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=3200&pause=900&color=3DCFB0&center=true&vCenter=true&width=680&lines=Hinglish+tasks+that+actually+remind+you;Catch+Azure+free-tier+traps+early;Paste+EPFO+rejection+%E2%86%92+get+the+fix" alt="what I ship" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=3200&pause=900&color=3DCFB0&center=true&vCenter=true&width=640&lines=Ship+small.+Ship+often.;Offline-first+by+default;Open+to+build" alt="status lines" />
 
   <p>
     <a href="https://www.linkedin.com/in/sandesh-lanjewar"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -13,6 +13,10 @@
 </div>
 
 ---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1220,50:0B6B58,100:1F6FEB&height=70&section=header&text=%E2%80%9C%20Projects%20%E2%80%9D&fontSize=30&fontColor=ffffff&fontAlignY=42&desc=Shipped%20%C2%B7%20live%20%C2%B7%20useful&descAlignY=68&descSize=12&descColor=C9D1D9" width="100%" alt="Projects" />
+</p>
 
 **[SandeshDo](https://github.com/SandeshL702/sandeshdo)** — Hinglish tasks + KhataBook. Offline. Lock-screen alarms. No login.
 
@@ -28,8 +32,6 @@
   <a href="https://github.com/SandeshL702/sandeshdo">Repo</a>
 </p>
 
----
-
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -43,19 +45,18 @@ EPFO rejection → fix + HR email.<br/>
 <a href="https://sandeshl702.github.io/why-is-my-pf-stuck/">live</a> · <a href="https://github.com/SandeshL702/why-is-my-pf-stuck">code</a>
 </td>
 </tr>
-<tr>
-<td width="50%" valign="top">
-<a href="https://nephlearngames.fun/"><img src="https://raw.githubusercontent.com/SandeshL702/SandeshL702/main/assets/nephroquest.jpg" width="100%" alt="NephroQuest" /></a><br/>
-<a href="https://nephlearngames.fun/"><b>NephroQuest</b></a> — 1k+ users · real payments
-</td>
-<td width="50%" valign="top">
-<a href="https://admybrand-landing-seven.vercel.app/"><img src="https://raw.githubusercontent.com/SandeshL702/SandeshL702/main/assets/admybrand.jpg" width="100%" alt="ADmyBRAND" /></a><br/>
-<a href="https://admybrand-landing-seven.vercel.app/"><b>ADmyBRAND</b></a> — Next.js SaaS landing
-</td>
-</tr>
 </table>
 
+<p align="center">
+  <a href="https://nephlearngames.fun/"><img src="https://raw.githubusercontent.com/SandeshL702/SandeshL702/main/assets/nephroquest.jpg" width="640" alt="NephroQuest" /></a><br/>
+  <a href="https://nephlearngames.fun/"><b>NephroQuest</b></a> — dialysis educator game · 1k+ users · real payments
+</p>
+
 ---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1220,50:0B6B58,100:1F6FEB&height=70&section=header&text=%E2%80%9C%20Stack%20%E2%80%9D&fontSize=30&fontColor=ffffff&fontAlignY=42&desc=What%20I%20use%20daily&descAlignY=68&descSize=12&descColor=C9D1D9" width="100%" alt="Stack" />
+</p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=azure,python,ts,react,nextjs,nodejs,mysql,androidstudio,git,vercel" alt="stack" />
