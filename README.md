@@ -1,13 +1,17 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/SandeshL702/SandeshL702/main/assets/message-terminal.gif" width="980" alt="Hi, I'm Sandesh — Message.exe · message → push → deploy" />
 
-  <p>
-    <a href="https://www.linkedin.com/in/sandesh-lanjewar"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    &nbsp;
-    <a href="mailto:sandeshlanjewar702@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-    &nbsp;
-    <a href="https://github.com/SandeshL702"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  </p>
+# Hi, I'm Sandesh
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=3DCFB0&center=true&vCenter=true&width=720&lines=Message.exe+is+running;%24+Message+%E2%86%92+push+%E2%86%92+deploy;Open+to+contribute" alt="Message.exe typing animation" />
+
+<p>
+  <a href="https://www.linkedin.com/in/sandesh-lanjewar"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  &nbsp;
+  <a href="mailto:sandeshlanjewar702@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  &nbsp;
+  <a href="https://github.com/SandeshL702"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
+
 </div>
 
 ---
