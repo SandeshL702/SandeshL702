@@ -1,4 +1,4 @@
-### Hi, I'm Sandesh
+# Hi, I'm Sandesh
 
 I ship tools people open twice — Azure, data, and products Indians actually need.
 
@@ -6,10 +6,12 @@ I ship tools people open twice — Azure, data, and products Indians actually ne
 
 ---
 
-### Featured · [SandeshDo](https://github.com/SandeshL702/sandeshdo)
+## Featured · [SandeshDo](https://github.com/SandeshL702/sandeshdo)
+
+Hinglish todo + Android reminder app. Offline task manager for India. Lock-screen alarms. No login.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SandeshL702/sandeshdo/main/docs/banner.jpg" width="920" alt="SandeshDo banner" />
+  <img src="https://raw.githubusercontent.com/SandeshL702/sandeshdo/main/docs/banner.jpg" width="920" alt="SandeshDo — Hinglish todo and Android reminder app" />
 </p>
 
 <p align="center">
@@ -31,31 +33,21 @@ I ship tools people open twice — Azure, data, and products Indians actually ne
 
 ---
 
-### Also shipping
+## Also shipping
 
-#### [Will Azure bill me?](https://sandeshl702.github.io/will-azure-bill-me/)
+### [Will Azure bill me?](https://sandeshl702.github.io/will-azure-bill-me/)
 
-Toggle what you turned on. Catch free-tier traps before the invoice.
+Azure free tier billing calculator. Toggle what you turned on. Catch traps before the invoice.
 
 [`live`](https://sandeshl702.github.io/will-azure-bill-me/) · [`code`](https://github.com/SandeshL702/will-azure-bill-me)
 
-```ts
-// free-tier looks free until one toggle flips the bill
-if (resource.enabled && !resource.inFreeTier) warn("this will bill you");
-```
+### [Why is my PF stuck?](https://sandeshl702.github.io/why-is-my-pf-stuck/)
 
-#### [Why is my PF stuck?](https://github.com/SandeshL702/why-is-my-pf-stuck)
+EPFO claim rejected → exact fix, HR email, EPFiGMS grievance draft. Zero login.
 
-Paste EPFO rejection → exact fix, HR email, grievance text. Zero login.
+[`live`](https://sandeshl702.github.io/why-is-my-pf-stuck/) · [`code`](https://github.com/SandeshL702/why-is-my-pf-stuck)
 
-[`code`](https://github.com/SandeshL702/why-is-my-pf-stuck)
-
-```ts
-// rejection text in → actionable fix out
-const fix = diagnose(epfoRejection); // HR email + EPFiGMS draft
-```
-
-#### [NephroQuest](https://nephlearngames.fun/)
+### [NephroQuest](https://nephlearngames.fun/)
 
 Dialysis educator game. **1k+ users · real payments**
 
@@ -63,9 +55,9 @@ Dialysis educator game. **1k+ users · real payments**
   <a href="https://nephlearngames.fun/"><img src="https://raw.githubusercontent.com/SandeshL702/SandeshL702/main/assets/nephroquest.jpg" width="640" alt="NephroQuest" /></a>
 </p>
 
-#### [ADmyBRAND landing](https://admybrand-landing-seven.vercel.app/)
+### [ADmyBRAND landing](https://admybrand-landing-seven.vercel.app/)
 
-SaaS page that looks awake. Next.js · motion.
+Next.js SaaS landing page with Framer Motion.
 
 <p align="center">
   <a href="https://admybrand-landing-seven.vercel.app/"><img src="https://raw.githubusercontent.com/SandeshL702/SandeshL702/main/assets/admybrand.jpg" width="640" alt="ADmyBRAND" /></a>
@@ -75,7 +67,7 @@ SaaS page that looks awake. Next.js · motion.
 
 ---
 
-### Stack
+## Stack
 
 ```text
 Azure · Python · TypeScript · React · Next.js · Node · MySQL · Android · Git · Vercel
@@ -87,7 +79,16 @@ Azure · Python · TypeScript · React · Next.js · Node · MySQL · Android ·
 
 ---
 
-### Certificates
+## Certificates
+
+| Cert | Issuer | Proof |
+|:--|:--|:--|
+| **AZ-104** Azure Administrator | Microsoft | [Verify](https://learn.microsoft.com/api/credentials/share/en-us/SandeshLanjewar-3706/311E844670AC1224?sharingId=61177A4AE83D51E8) |
+| **AZ-900** Azure Fundamentals | Microsoft | [Verify](https://learn.microsoft.com/api/credentials/share/en-us/SandeshLanjewar-3706/DE15C5AF7A73CC1A?sharingId=61177A4AE83D51E8) |
+| **AI-900** Azure AI Fundamentals | Microsoft | [Verify](https://learn.microsoft.com/api/credentials/share/en-in/SandeshLanjewar-3706/8D70F57C51567E8A?sharingId=61177A4AE83D51E8) |
+| **Google Data Analytics** | Google / Coursera | [Verify](https://www.coursera.org/account/accomplishments/verify/Q2JZWWEXXUTL) |
+| **Google UX Design** | Google / Coursera | [Verify](https://coursera.org/share/046014da3ace50b123fa4b911416734d) |
+| **Python for Data Science** | NPTEL | [Certificate](https://archive.nptel.ac.in/content/noc/NOC24/SEM1/Ecertificates/106/noc24-cs57/Course/NPTEL24CS57S56290039430691141.pdf) |
 
 <p align="center">
   <a href="https://learn.microsoft.com/api/credentials/share/en-us/SandeshLanjewar-3706/311E844670AC1224?sharingId=61177A4AE83D51E8"><img src="https://img.shields.io/badge/Microsoft-AZ--104_Azure_Administrator-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="AZ-104" /></a>
@@ -100,15 +101,6 @@ Azure · Python · TypeScript · React · Next.js · Node · MySQL · Android ·
   <a href="https://coursera.org/share/046014da3ace50b123fa4b911416734d"><img src="https://img.shields.io/badge/Google-UX_Design-34A853?style=for-the-badge&logo=google&logoColor=white" alt="Google UX" /></a>
   <a href="https://archive.nptel.ac.in/content/noc/NOC24/SEM1/Ecertificates/106/noc24-cs57/Course/NPTEL24CS57S56290039430691141.pdf"><img src="https://img.shields.io/badge/NPTEL-Python_for_Data_Science-FF6600?style=for-the-badge" alt="NPTEL" /></a>
 </p>
-
-| Cert | Issuer | Proof |
-|:--|:--|:--|
-| **AZ-104** Azure Administrator | Microsoft | [Verify](https://learn.microsoft.com/api/credentials/share/en-us/SandeshLanjewar-3706/311E844670AC1224?sharingId=61177A4AE83D51E8) |
-| **AZ-900** Azure Fundamentals | Microsoft | [Verify](https://learn.microsoft.com/api/credentials/share/en-us/SandeshLanjewar-3706/DE15C5AF7A73CC1A?sharingId=61177A4AE83D51E8) |
-| **AI-900** Azure AI Fundamentals | Microsoft | [Verify](https://learn.microsoft.com/api/credentials/share/en-in/SandeshLanjewar-3706/8D70F57C51567E8A?sharingId=61177A4AE83D51E8) |
-| **Google Data Analytics** | Google / Coursera | [Verify](https://www.coursera.org/account/accomplishments/verify/Q2JZWWEXXUTL) |
-| **Google UX Design** | Google / Coursera | [Verify](https://coursera.org/share/046014da3ace50b123fa4b911416734d) |
-| **Python for Data Science** | NPTEL | [Certificate](https://archive.nptel.ac.in/content/noc/NOC24/SEM1/Ecertificates/106/noc24-cs57/Course/NPTEL24CS57S56290039430691141.pdf) |
 
 ---
 
