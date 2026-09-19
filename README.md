@@ -18,12 +18,13 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1220,50:0B6B58,100:1F6FEB&height=70&section=header&text=%E2%80%9C%20Projects%20%E2%80%9D&fontSize=30&fontColor=ffffff&fontAlignY=42&desc=Shipped%20%C2%B7%20live%20%C2%B7%20useful&descAlignY=68&descSize=12&descColor=C9D1D9" width="100%" alt="Projects" />
 </p>
 
-**[SandeshDo](https://github.com/SandeshL702/sandeshdo)** — Hinglish tasks + KhataBook. Offline. Lock-screen alarms. No login.
+### [SandeshDo](https://github.com/SandeshL702/sandeshdo)
+Hinglish tasks + KhataBook. Offline. Lock-screen alarms. No login.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SandeshL702/sandeshdo/main/docs/today.png" height="280" alt="Today" />
-  <img src="https://raw.githubusercontent.com/SandeshL702/sandeshdo/main/docs/calendar.png" height="280" alt="Calendar" />
-  <img src="https://raw.githubusercontent.com/SandeshL702/sandeshdo/main/docs/sandy.png" height="280" alt="Sandy" />
+  <a href="https://github.com/SandeshL702/sandeshdo"><img src="https://raw.githubusercontent.com/SandeshL702/sandeshdo/main/docs/today.png" height="260" alt="SandeshDo Today" /></a>
+  <a href="https://github.com/SandeshL702/sandeshdo"><img src="https://raw.githubusercontent.com/SandeshL702/sandeshdo/main/docs/calendar.png" height="260" alt="SandeshDo Calendar" /></a>
+  <a href="https://github.com/SandeshL702/sandeshdo"><img src="https://raw.githubusercontent.com/SandeshL702/sandeshdo/main/docs/sandy.png" height="260" alt="SandeshDo Sandy" /></a>
 </p>
 
 <p align="center">
@@ -34,26 +35,30 @@
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
+<a href="https://sandeshl702.github.io/will-azure-bill-me/"><img src="https://raw.githubusercontent.com/SandeshL702/SandeshL702/main/assets/azure-bill.png" width="100%" alt="Will Azure bill me?" /></a><br/>
 <a href="https://sandeshl702.github.io/will-azure-bill-me/"><b>Will Azure bill me?</b></a><br/>
 Free-tier traps before the invoice.<br/>
 <a href="https://sandeshl702.github.io/will-azure-bill-me/">live</a> · <a href="https://github.com/SandeshL702/will-azure-bill-me">code</a>
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
+<a href="https://sandeshl702.github.io/why-is-my-pf-stuck/"><img src="https://raw.githubusercontent.com/SandeshL702/SandeshL702/main/assets/pf-stuck.png" width="100%" alt="Why is my PF stuck?" /></a><br/>
 <a href="https://sandeshl702.github.io/why-is-my-pf-stuck/"><b>Why is my PF stuck?</b></a><br/>
 EPFO rejection → fix + HR email.<br/>
 <a href="https://sandeshl702.github.io/why-is-my-pf-stuck/">live</a> · <a href="https://github.com/SandeshL702/why-is-my-pf-stuck">code</a>
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
+<a href="https://survey.careersparksco.in/"><img src="https://raw.githubusercontent.com/SandeshL702/SandeshL702/main/assets/careersparks.png" width="100%" alt="CareerSparks Survey" /></a><br/>
 <a href="https://survey.careersparksco.in/"><b>CareerSparks Survey</b></a><br/>
-Recruitment forms + staff admin.<br/>
+Recruitment forms + staff admin for India hiring teams.<br/>
 <a href="https://survey.careersparksco.in/">live</a> · <a href="https://github.com/SandeshL702/careersparks-survey">code</a>
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
+<a href="https://nephlearngames.fun/"><img src="https://raw.githubusercontent.com/SandeshL702/SandeshL702/main/assets/nephroquest.jpg" width="100%" alt="NephroQuest" /></a><br/>
 <a href="https://nephlearngames.fun/"><b>NephroQuest</b></a><br/>
-Dialysis educator game · 1k+ users.<br/>
+Dialysis educator game · 1k+ users · real payments.<br/>
 <a href="https://nephlearngames.fun/">live</a>
 </td>
 </tr>
