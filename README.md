@@ -1,7 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,20,24&height=200&section=header&animation=fadeIn&fontAlignY=34&descAlignY=60&text=Hi%2C%20I'm%20Sandesh&fontSize=44&fontColor=ffffff&desc=Sandesh%20means%20message%20%C2%B7%20I%20ship%20tools%20that%20deliver&descSize=16&descColor=C9D1D9" width="100%" alt="Hi, I'm Sandesh — Sandesh means message" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,20,24&height=160&section=header&animation=fadeIn&fontAlignY=35&descAlignY=62&text=Hi%2C%20I'm%20Sandesh&fontSize=42&fontColor=ffffff&desc=Azure%20%C2%B7%20Android%20%C2%B7%20India&descSize=16&descColor=C9D1D9" width="100%" alt="Hi, I'm Sandesh" />
 
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=800&color=3DCFB0&center=true&vCenter=true&width=720&lines=My+name+means+message.;I+ship+tools+that+deliver.;Open+to+contribute." alt="typing: My name means message" />
+  <img src="https://raw.githubusercontent.com/SandeshL702/SandeshL702/main/assets/message-terminal.svg" width="920" alt="Message.exe terminal — message → push → deploy" />
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2600&pause=700&color=3DCFB0&center=true&vCenter=true&width=760&lines=%24+./Message.exe+is+running...;%24+Message+%E2%86%92+push+%E2%86%92+deploy;%24+Message+%40+localhost+%E2%9C%93;%24+Open+to+contribute" alt="Message.exe typing animation" />
 
   <p>
     <a href="https://www.linkedin.com/in/sandesh-lanjewar"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
