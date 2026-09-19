@@ -15,7 +15,7 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SandeshL702/SandeshL702/main/assets/banner-projects.gif?v=4" width="100%" alt="Projects" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,20,24&height=100&section=header&animation=fadeIn&fontAlignY=40&descAlignY=68&text=%E2%80%9C%20Projects%20%E2%80%9D&fontSize=36&fontColor=ffffff&desc=Shipped%20%C2%B7%20live%20%C2%B7%20useful&descSize=14&descColor=C9D1D9" width="100%" alt="Projects" />
 </p>
 
 ### [SandeshDo](https://github.com/SandeshL702/sandeshdo)
@@ -67,7 +67,7 @@ Dialysis educator game · 1k+ users · real payments.<br/>
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SandeshL702/SandeshL702/main/assets/banner-stack.gif?v=4" width="100%" alt="Stack" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,20,24&height=100&section=header&animation=fadeIn&fontAlignY=40&descAlignY=68&text=%E2%80%9C%20Stack%20%E2%80%9D&fontSize=36&fontColor=ffffff&desc=Build%20%C2%B7%20ads%20%C2%B7%20research%20%C2%B7%20ship&descSize=14&descColor=C9D1D9" width="100%" alt="Stack" />
 </p>
 
 <p align="center"><b>Build</b></p>
@@ -93,7 +93,7 @@ Dialysis educator game · 1k+ users · real payments.<br/>
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SandeshL702/SandeshL702/main/assets/banner-certificates.gif?v=4" width="100%" alt="Certificates" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,20,24&height=100&section=header&animation=fadeIn&fontAlignY=40&descAlignY=68&text=%E2%80%9C%20Certificates%20%E2%80%9D&fontSize=36&fontColor=ffffff&desc=Proof%20over%20promises&descSize=14&descColor=C9D1D9" width="100%" alt="Certificates" />
 </p>
 
 <p align="center">
@@ -108,7 +108,7 @@ Dialysis educator game · 1k+ users · real payments.<br/>
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SandeshL702/SandeshL702/main/assets/banner-hobbies.gif?v=4" width="100%" alt="Hobbies" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,20,24&height=100&section=header&animation=fadeIn&fontAlignY=40&descAlignY=68&text=%E2%80%9C%20Hobbies%20%E2%80%9D&fontSize=36&fontColor=ffffff&desc=Play%20%C2%B7%20research%20%C2%B7%20stay%20sharp&descSize=14&descColor=C9D1D9" width="100%" alt="Hobbies" />
 </p>
 
 <p align="center">
