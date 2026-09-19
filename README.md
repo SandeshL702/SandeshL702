@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,20,24&height=140&section=header&animation=fadeIn&fontAlignY=35&descAlignY=55&descSize=14&text=Sandesh%20Lanjewar&fontSize=42&fontColor=ffffff&desc=I%20ship%20tools%20people%20open%20twice&descColor=C9D1D9" width="100%" alt="Sandesh Lanjewar" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,20,24&height=160&section=header&animation=fadeIn&fontAlignY=32&descAlignY=58&text=Building%20in%20public&fontSize=40&fontColor=ffffff&desc=Azure%20%C2%B7%20Android%20%C2%B7%20data%20%E2%80%94%20tools%20that%20stick&descSize=16&descColor=C9D1D9" width="100%" alt="Building in public" />
 
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=3200&pause=900&color=3DCFB0&center=true&vCenter=true&width=620&lines=Azure+%C2%B7+Data+%C2%B7+India-first+products;Offline+apps+%C2%B7+Cloud+tools+%C2%B7+Real+users" alt="roles" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=3200&pause=900&color=3DCFB0&center=true&vCenter=true&width=640&lines=Offline+apps+for+India;Azure+tools+before+the+invoice;Products+with+real+users" alt="what I build" />
 
   <p>
     <a href="https://www.linkedin.com/in/sandesh-lanjewar"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -59,6 +59,12 @@ EPFO rejection → fix + HR email.<br/>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=azure,python,ts,react,nextjs,nodejs,mysql,androidstudio,git,vercel" alt="stack" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1220,50:0B6B58,100:1F6FEB&height=70&section=header&text=%E2%80%9C%20Certificates%20%E2%80%9D&fontSize=30&fontColor=ffffff&fontAlignY=42&desc=Proof%20over%20promises&descAlignY=68&descSize=12&descColor=C9D1D9" width="100%" alt="Certificates" />
 </p>
 
 <p align="center">
